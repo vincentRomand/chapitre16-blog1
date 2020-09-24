@@ -1,0 +1,32 @@
+{
+  "name": "chapitre16blog1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "webpack",
+    "start": "webpack-dev-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/cli": "^7.11.6",
+    "@babel/core": "^7.11.6",
+    "@babel/preset-env": "^7.11.5",
+    "babel-loader": "^8.1.0",
+    "clean-webpack-plugin": "^3.0.0",
+    "copy-webpack-plugin": "^6.1.1",
+    "core-js": "^3.6.5",
+    "css-loader": "^4.3.0",
+    "html-webpack-plugin": "^4.5.0",
+    "node-sass": "^4.14.1",
+    "regenerator-runtime": "^0.13.7",
+    "sass-loader": "^10.0.2",
+    "style-loader": "^1.2.1",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
